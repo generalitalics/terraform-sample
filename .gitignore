@@ -1,2 +1,5 @@
 .terraform
 vault-password
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
